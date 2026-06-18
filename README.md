@@ -1,8 +1,8 @@
 # heitorc8_
 Meu Perfil GItHub
-<img src = "banner 1.gif" width = "325px" align = "right"> 
+<img src = "gif.png" width = "325px" align = "right"> 
 
-# 🖥️Olá, seja bem vindo ao meu GitHub!
+# Bem vindo ao meu GitHub!🖥️
  <div id="badges">
   <a href = "https://www.linkedin.com/in/heitor-corradi-3736aa417/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
